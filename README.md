@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Vongnorin/Vongnorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## About me!
+I'm VongNorin, living in Phnom Penh, Cambodia  and currently pursuing a Bachelor's degree in Software Engineering, Computer Science. Coding enthusiast with a passion for problem-solving and creating solutions that make life a bit easier.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
